@@ -1279,7 +1279,7 @@ top: -100px;
 }
 @media (max-width:250px){
 .contact-inputs{
-    width: 200px;
+    width: 205px;
     height: 50px;
     outline: none;
     padding-left: 17px;
@@ -1291,27 +1291,13 @@ top: -100px;
 }
 @media (max-width:225px){
 .contact-inputs{
-    width: 175px;
+    width: 180px;
     height: 50px;
     outline: none;
     padding-left: 17px;
     font-weight: 600;
     color: #2c2d2c;
     font-size: 100%;
-    border-radius: 50px;
-}
-
-
-}
-@media (max-width:225px){
-.contact-inputs{
-    width: 175px;
-    height: 50px;
-    outline: none;
-    padding-left: 17px;
-    font-weight: 600;
-    color: #2c2d2c;
-    font-size: 120%;
     border-radius: 50px;
 }
 
