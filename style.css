@@ -1266,7 +1266,7 @@ top: -100px;
 }*/
 @media (max-width:329px){
 .contact-inputs{
-    width: 120px;
+    width: 279px;
     height: 50px;
     outline: none;
     padding-left: 17px;
@@ -1279,7 +1279,7 @@ top: -100px;
 }
 @media (max-width:250px){
 .contact-inputs{
-    width: 120px;
+    width: 200px;
     height: 50px;
     outline: none;
     padding-left: 17px;
@@ -1291,7 +1291,7 @@ top: -100px;
 }
 @media (max-width:225px){
 .contact-inputs{
-    width: 120px;
+    width: 175px;
     height: 50px;
     outline: none;
     padding-left: 17px;
@@ -1305,7 +1305,7 @@ top: -100px;
 }
 @media (max-width:225px){
 .contact-inputs{
-    width: 105px;
+    width: 175px;
     height: 50px;
     outline: none;
     padding-left: 17px;
@@ -1325,7 +1325,7 @@ top: -100px;
     padding-left: 17px;
     font-weight: 600;
     color: #2c2d2c;
-    font-size: 120%;
+    font-size: 100%;
     border-radius: 50px;
 }
 }
