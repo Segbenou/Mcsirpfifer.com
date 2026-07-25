@@ -1121,7 +1121,7 @@ position: relative;
     align-items: center;
 }
 .contact-inputs{
-    width: 390px;
+    width: 320px;
     height: 50px;
     outline: none;
     padding-left: 17px;
@@ -1184,7 +1184,7 @@ position: relative;
 }
 
 .contact-inputs{
-    width: 390px;
+    width: 302px;
     height: 50px;
     outline: none;
     padding-left: 17px;
@@ -1266,7 +1266,7 @@ top: -100px;
 }*/
 @media (max-width:225px){
 .contact-inputs{
-    width: 200px;
+    width: 180px;
     height: 50px;
     outline: none;
     padding-left: 17px;
@@ -1280,7 +1280,7 @@ top: -100px;
 }
 @media (max-width:150px){
     .contact-inputs{
-    width: 149px;
+    width: 105px;
     height: 50px;
     outline: none;
     padding-left: 17px;
