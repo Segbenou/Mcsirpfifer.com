@@ -1305,7 +1305,7 @@ top: -100px;
 }
 @media (max-width:150px){
     .contact-inputs{
-    width: 105px;
+    width: 180px;
     height: 50px;
     outline: none;
     padding-left: 17px;
