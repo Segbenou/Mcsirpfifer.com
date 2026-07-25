@@ -1264,6 +1264,19 @@ top: -100px;
     left: 0.005%;  
 
 }*/
+@media (max-width:329px){
+.contact-inputs{
+    width: 200px;
+    height: 50px;
+    outline: none;
+    padding-left: 17px;
+    font-weight: 600;
+    color: #2c2d2c;
+    font-size: 120%;
+    border-radius: 50px;
+}
+
+}
 @media (max-width:250px){
 .contact-inputs{
     width: 180px;
@@ -1275,6 +1288,20 @@ top: -100px;
     font-size: 120%;
     border-radius: 50px;
 }
+}
+@media (max-width:230px){
+.contact-inputs{
+    width: 176px;
+    height: 50px;
+    outline: none;
+    padding-left: 17px;
+    font-weight: 600;
+    color: #2c2d2c;
+    font-size: 100%;
+    border-radius: 50px;
+}
+
+
 }
 @media (max-width:225px){
 .contact-inputs{
