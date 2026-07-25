@@ -1190,7 +1190,7 @@ position: relative;
     padding-left: 17px;
     font-weight: 600;
     color: #2c2d2c;
-    font-size: 100%;
+    font-size: 120%;
     border-radius: 50px;
 }
 
@@ -1264,6 +1264,18 @@ top: -100px;
     left: 0.005%;  
 
 }*/
+@media (min-width:250px){
+.contact-inputs{
+    width: 180px;
+    height: 50px;
+    outline: none;
+    padding-left: 17px;
+    font-weight: 600;
+    color: #2c2d2c;
+    font-size: 120%;
+    border-radius: 50px;
+}
+}
 @media (max-width:225px){
 .contact-inputs{
     width: 180px;
@@ -1272,7 +1284,7 @@ top: -100px;
     padding-left: 17px;
     font-weight: 600;
     color: #2c2d2c;
-    font-size: 100%;
+    font-size: 120%;
     border-radius: 50px;
 }
 
@@ -1286,7 +1298,7 @@ top: -100px;
     padding-left: 17px;
     font-weight: 600;
     color: #2c2d2c;
-    font-size: 100%;
+    font-size: 120%;
     border-radius: 50px;
 }
 }
