@@ -1266,7 +1266,7 @@ top: -100px;
 }*/
 @media (max-width:329px){
 .contact-inputs{
-    width: 200px;
+    width: 150px;
     height: 50px;
     outline: none;
     padding-left: 17px;
@@ -1279,7 +1279,7 @@ top: -100px;
 }
 @media (max-width:250px){
 .contact-inputs{
-    width: 180px;
+    width: 110px;
     height: 50px;
     outline: none;
     padding-left: 17px;
@@ -1289,9 +1289,9 @@ top: -100px;
     border-radius: 50px;
 }
 }
-@media (max-width:230px){
+@media (max-width:225px){
 .contact-inputs{
-    width: 176px;
+    width: 120px;
     height: 50px;
     outline: none;
     padding-left: 17px;
@@ -1305,7 +1305,7 @@ top: -100px;
 }
 @media (max-width:225px){
 .contact-inputs{
-    width: 176px;
+    width: 105px;
     height: 50px;
     outline: none;
     padding-left: 17px;
