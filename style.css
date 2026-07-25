@@ -1266,7 +1266,7 @@ top: -100px;
 }*/
 @media (max-width:250px){
 .contact-inputs{
-    width: 18px;
+    width: 180px;
     height: 50px;
     outline: none;
     padding-left: 17px;
@@ -1278,7 +1278,7 @@ top: -100px;
 }
 @media (max-width:225px){
 .contact-inputs{
-    width: 180px;
+    width: 176px;
     height: 50px;
     outline: none;
     padding-left: 17px;
