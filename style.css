@@ -1316,4 +1316,8 @@ top: -100px;
     border-radius: 50px;
 }
 }
-
+@media (max-width:50px){
+    .Portofolio-box{
+        width: 49px;
+    }
+}
