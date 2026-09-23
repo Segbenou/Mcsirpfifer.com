@@ -281,6 +281,9 @@ color: white;
     
    
  }*/
+ .Portofolio-box{
+    width: 400px;
+ }
  .Portofolio-box {
     transition: .5s ease;
  }
